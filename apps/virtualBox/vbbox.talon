@@ -9,10 +9,11 @@ super:
 
 # Define linux command-line navigation commands.
 make directory:
-    insert("mkdir ")
-    key(enter)
+    insert("mkdir")
 change directory:
-    insert("cd ")
+    insert("cd")
+list directory:
+    insert("ll")
     key(enter)
 
 # Define Git commands.
