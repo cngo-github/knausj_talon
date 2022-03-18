@@ -25,3 +25,7 @@ development ad:
 go to development directory:
     insert("cd ~/dev")
     key(enter)
+
+# Define VS Code commands.
+format document:
+    key(ctrl+shift+i)
