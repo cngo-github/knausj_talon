@@ -15,15 +15,18 @@ change directory:
 list directory:
     insert("ll")
     key(enter)
+go to dev directory:
+    insert("cd ~/dev")
+    key(enter)
 
 # Define Git commands.
-development status:
+git status:
     insert("git status")
     key(enter)
-development ad:
+git ad:
     insert("git add")
-go to development directory:
-    insert("cd ~/dev")
+git commit:
+    insert("git commit")
     key(enter)
 
 # Define VS Code commands.
