@@ -9,5 +9,8 @@ development status:
     key(enter)
 development ad:
     insert("git add")
+go to development directory:
+    inserts("~/dev")
+    key(enter)
 super:
-    key(menu)
+    key(super)
