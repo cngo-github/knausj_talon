@@ -28,4 +28,6 @@ go to development directory:
 
 # Define VS Code commands.
 format document:
-    key(ctrl+shift+i)
+    key(ctrl-shift-i)
+save document:
+    key(ctrl-s)
