@@ -28,6 +28,9 @@ git ad:
 git commit:
     insert("git commit")
     key(enter)
+git push:
+    insert("git push")
+    key(enter)
 
 # Define VS Code commands.
 format document:
