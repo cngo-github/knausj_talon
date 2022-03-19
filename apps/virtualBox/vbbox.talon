@@ -37,3 +37,11 @@ format document:
     key(ctrl-shift-i)
 save document:
     key(ctrl-s)
+
+# Define CSS commands.
+see as as:
+    insert("css")
+
+# Define JS commands.
+ja as:
+    insert("js")
